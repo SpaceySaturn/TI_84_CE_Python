@@ -6,7 +6,7 @@ Created on Mon Aug 28 17:46:50 2023
 @author: pi
 """
 
-# Pythong program to compute factors of numbers
+# Python program to compute factors of numbers
 
 # Function computes the factor of argument
 
